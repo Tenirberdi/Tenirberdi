@@ -16,8 +16,10 @@
   <samp>
     <h2 align="center">you can reach me by:</h2>
     <p align="center">
+      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tek-kambarov" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://kg.linkedin.com/in/tek-kambarov?trk=profile-badge">Tenirberdi Kambarov</a></div>
+              
       <br/>
-      <a href="https://www.linkedin.com/in/tenirberdi-kambarov-636b361b8/" target="blank"><img align="center"
+      <a href="https://www.linkedin.com/in/tek-kambarov/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
       <a href="tekukambarov@gmail.com" target="blank"><img align="center"
