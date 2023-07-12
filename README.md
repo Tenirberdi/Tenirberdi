@@ -1,6 +1,6 @@
 <div align="center">
 <h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Tek</h1>
-<h4 align="center">a java backend developer an also an engineering student at INAI.kg institute, see my <a href="https://github.com/Tenirberdi/Tenirberdi/blob/main/doc/Tek%20Kambarov%20Java%20Developer%20CV.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">a java backend developer an also an engineering student at INAI.kg institute, see my <a href="https://github.com/Tenirberdi/Tenirberdi/blob/main/doc/Tek%20Kambarov%20CV.pdf" target="_blank">resume</a> for more</h4>
 </div>
 
 <div align="center">
