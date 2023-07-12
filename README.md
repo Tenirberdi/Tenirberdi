@@ -28,7 +28,7 @@
       <a href="https://wa.me/qr/EJ6BG72EEVVAD1" target="blank"><img align="center"
          src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="https://web.telegram.org/k/#@StudyGuy0" target="blank"><img align="center"
+      <a href="https://t.me/tekkambarov" target="blank"><img align="center"
          src="https://img.shields.io/badge/-telegram-red?color=white&logo=telegram&logoColor=black"
          alt="azzar" height="30"/></a>
       <br>
