@@ -1,6 +1,6 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Tek</h1>
-<h4 align="center">a java backend developer</h4>
+<h1 align="center">Hi I'm Tek</h1>
+<h4 align="center">Java backend developer</h4>
 </div>
 
 <div align="center">
@@ -41,11 +41,10 @@
   <summary>🧮 about</summary>
 
 ##  About me
-- school: I am a `Junior` at Faculty of Computers & Informatics at INAI institute
-- technologist: I specialize in building `microservices` and `server-side` software using java (Spring).
-- computer: I am a competitive programmer mainly at `LeetCode`
-- student: I’m currently learning: `Computer Science` and `Software Engineering`.
-- thinking: I’m currently open for: `An Intern` or a new `job opportunity`, this is [MY RESUME](https://github.com/Tenirberdi/Tenirberdi/blob/main/doc/Tek%20Kambarov%20Java%20Developer%20CV.pdf).
+Developer proficient in Java, Spring, Hibernate, and various databases. Skilled in building and managing high-load 
+server applications, resolving critical issues, and working with microservice architectures. Strong team player with 
+problem-solving abilities, committed to delivering high-quality software solutions.
+This is [MY RESUME](https://github.com/Tenirberdi/Tenirberdi/blob/main/doc/Tek%20Kambarov%20Java%20Developer%20CV.pdf).
 
 <br>
 
