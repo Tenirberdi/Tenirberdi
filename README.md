@@ -2,7 +2,6 @@
 <h1 align="center">Hi I'm Tek</h1>
 <h4 align="center">Java backend developer</h4>
 </div>
------
 <details open>
   <summary>☎️ contact me</summary>
 <div>
