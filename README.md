@@ -36,7 +36,7 @@
 Developer proficient in Java, Spring, Hibernate, and various databases. Skilled in building and managing high-load 
 server applications, resolving critical issues, and working with microservice architectures. Strong team player with 
 problem-solving abilities, committed to delivering high-quality software solutions.
-This is [MY RESUME]([https://github.com/Tenirberdi/Tenirberdi/blob/main/doc/Tek%20Kambarov%20Java%20Developer%20CV.pdf](https://github.com/Tenirberdi/Tenirberdi/blob/main/Tek%20Kambarov%20CV.pdf)).
+This is [MY RESUME](https://github.com/Tenirberdi/Tenirberdi/blob/main/Tek%20Kambarov%20CV.pdf).
 
 <br>
 
